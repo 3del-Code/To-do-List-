@@ -99,7 +99,7 @@ body{
     left: 8px ;
     top: 12px;
     cursor: pointer;
-    background: url(../unchecked_circle-1024.png) center/cover;
+    background: url(./unchecked_circle-1024.png) center/cover;
 }
 
 .todo-list ul li.checked{
@@ -107,5 +107,5 @@ body{
 }
 
 .todo-list ul li.checked::before{
-    background: url(../check-circle-green-512.png) center/cover;
+    background: url(./check-circle-green-512.png) center/cover;
 }
